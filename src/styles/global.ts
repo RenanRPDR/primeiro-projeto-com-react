@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 
-import githubBackground from '../assets/github-background.svg';
+import githubBackground from '../assets/github-white-bg2.svg';
 
 export default createGlobalStyle`
   * {
@@ -11,9 +11,8 @@ export default createGlobalStyle`
   }
 
   body {
-    background: #2f3437 url(${githubBackground}) no-repeat 70% top;
+    background: #F0F0F2 url(${githubBackground})  no-repeat 70% top;
     -webkit-font-smoothing: antialiased;
-    color: #ffffff;
   }
 
   body, input, button{
