@@ -15,7 +15,7 @@ export const Header = styled.header`
     display: flex;
     align-items: center;
     text-decoration: none;
-    color: #fff;
+    color: #000;
     transition: color 0.2s;
 
     &:hover {
