@@ -54,7 +54,7 @@
       $ cd primeiro-projeto-com-react
 
       # Rode um yarn para instalar as dependências do projeto
-      $ yarn
+      $ yarn --install
 
       # Inicie o projeto
       $ yarn start
